@@ -26,6 +26,7 @@ int main(){
         if(maxi > maxSub){maxSub = maxi;}
     }
     cout << maxSub << endl;
+
     
     return 0;
 }
